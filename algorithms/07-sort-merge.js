@@ -76,7 +76,7 @@ function merge(arr1, arr2) {
 
   Big O:
     Time complexity:
-      - Best: O(n log n) - (n log n is the best what we can get for sorthing alg)
+      - Best: O(n log n) - (n log n is the best what we can get for sorting alg)
       - Average: O(n log n)
       - Worst: O(n log n)
     Space complexity - O(n)

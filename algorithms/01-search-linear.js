@@ -16,6 +16,6 @@ function linearSearch(arr, value) {
 
 const arr = [2, 1, 4, 5, 3, 2];
 
-console.log(linearSearch(arr, 3));
-console.log(linearSearch(arr, 2));
-console.log(linearSearch(arr, 8));
+console.log(linearSearch([2, 1, 4, 5, 3, 2], 3));
+console.log(linearSearch([2, 1, 4, 5, 3, 2], 2));
+console.log(linearSearch([2, 1, 4, 5, 3, 2], 8));
